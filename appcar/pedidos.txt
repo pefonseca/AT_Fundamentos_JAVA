@@ -1,0 +1,4 @@
+M;3;Biz;Azul;2010;Honda;false;5000;15000;
+CAR;2;Corsa;Vermelho;2010;Chevrolet;false;15000;200000;
+CAM;1;1113;Vermelho;1950;Mercedes;false;15000;200000;10000;
+P;Pedido 1;false;12345678900;pedinho@pedinho.com.br;pedro;
